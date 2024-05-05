@@ -8,8 +8,8 @@ body {
   min-height: 100vh;
   background: linear-gradient(148deg, #f9fafb 8.89%, #d2d6db 100.48%);
 
-  display: grid;
-  place-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 * {
